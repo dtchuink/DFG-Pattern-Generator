@@ -1,6 +1,6 @@
 # DFG-Pattern-Generator
 
-We  build  a  Analytic Pass at the function level with  properties that  best  capture  the  input  program.  Each  vertex  is  labeled with the operation of the instruction it represents, while edges display  the  order  of  precedence  between  operations.
+We  build  a  transformation Pass at the function level with  properties that  best  capture  the  input  program.  Each  vertex  is  labeled with the operation of the instruction it represents, while edges display  the  order  of  precedence  between  operations.
 
 We therefore construct canonical form of DFS, which the minimum code  that  can  be  derived  from  a  graph g [1].  Specifically,  the strategy consists in:
 			
