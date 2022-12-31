@@ -14,4 +14,5 @@ We therefore construct canonical form of DFS, which the minimum code  that  can 
 
 # References:
 [1] X. Yan and J. Han, “gspan: Graph-based substructure pattern mining,” inData Mining, 2002. ICDM 2003. Proceedings. 2002 IEEE InternationalConference on.    IEEE, 2002, pp. 721–724
+
 [2] Mbongue, Joel Mandebi, Danielle Tchuinkou Kwadjo, and Christophe Bobda. "Automatic Generation of Application-Specific FPGA Overlays with RapidWright." 2019 International Conference on Field-Programmable Technology (ICFPT). IEEE, 2019.
